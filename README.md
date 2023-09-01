@@ -7,4 +7,5 @@ CS771 Course Project
 3. Proximal Gradient Descent with Nesterov's Accelerated Gradient (NAG)
 
 Proximal Gradient Descent with NAG gave the least error of about 3x10^-7 on validation data.
-The report file contains mathematical proof for existence of a sparse linear solution to the given problem, performance of our program and explanation on how we tuned the hyperparameters.
+The problem file contains the problem statement which we are solving.
+The report file contains mathematical proof for existence of a sparse linear solution to the given problem, performance of our program and explanation on how I tuned the hyperparameters.
